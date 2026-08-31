@@ -16,6 +16,8 @@ I ship systems with tests, evals and audit trails. Not demos.
 
 ### 🧠 [Heretic OS](https://github.com/murat-suer/heretic-os) · agent operating system
 
+<img src="img/operator1.jpg" alt="The operator surface of Heretic OS" width="100%">
+
 Memory folds by address and returns the original byte for byte — 100% recovery across 1,008 live folds, zero loss and zero false alarms. Against the field's best-funded open memory system on LoCoMo: **0.685 against 0.438** under a strict independent judge, on **10.4× fewer** write-time model calls (656 against 6,836, counted on the same corpus). Runs in the cloud, on a laptop, or with the network cable cut.
 
 `172,997 lines of product code` · `549,394 lines of tests` · `13,197 tests passing` · `2 inventions filed with the USPTO`
